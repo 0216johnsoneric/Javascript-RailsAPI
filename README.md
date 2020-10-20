@@ -1,10 +1,10 @@
 # Javascript-RailsAPI
-Overview
+## Overview
 Welcome to your JavaScript Project!
 
 You are going build a Single Page Application (SPA). Your frontend will be built with HTML, CSS, and JavaScript. Your frontend will communicate with a backend API that you'll build with Ruby and Rails. This is a really exciting moment - the whole course up until this point is coming together!
 
-Objectives
+## Objectives
 Your goals with this project:
 
 Design and architect features across frontend and backend
@@ -23,7 +23,7 @@ Read below for more details about the technical requirements for your project. S
 
 As always, your project must be your own work. For more details about the rules of the road, see Project Rules of the Road.
 
-Technical and Complexity Requirements
+## Technical and Complexity Requirements
 In order to demonstrate your proficiency with what you've learned about web development with JavaScript, here are the requirements for your project. You should view these guidelines as a minimum bar for the features you include in your application. It's your project, and you are encouraged to go above and beyond these requirements.
 
 The application must be an HTML, CSS, and JavaScript frontend with a Rails API backend. All interactions between the client and the server must be handled asynchronously (AJAX) and use JSON as the communication format.
@@ -38,7 +38,7 @@ Within these constraints, there is a huge variety of applications that you might
 
 If you aren't sure about whether the domain or features you are planning to build will meet the technical requirements, you should reach out to an instructor for guidance. Read more about instructor guidance below.
 
-Best Practices
+## Best Practices
 You are encouraged to follow development best practices while you are building your application.
 
 JavaScript
