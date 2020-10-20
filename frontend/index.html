@@ -39,6 +39,30 @@
     </nav>
 
     <!-- MAIN SECTION -->
+    <main>
+      <div class="container">
+
+        <form class="add-item-form" style="text-align:center">
+                <h3>Create a Item!</h3>
+
+                <input id="name-field" type="text" name="name" value="" placeholder="Enter a item's name..." class="input-text"/>
+            <br/>
+                <input id= "image-field" type="text" name="image" value="" placeholder="Enter a items's image URL..." class="input-text"/>
+            <br/>
+                <input type="submit" name="submit" value="Create New Item" class="submit"/>
+        </form>
+      
+        </div>
+    
+        <br/>
+        <div>
+        <p style="text-align:center">
+            Add New Items! <button id="new-toy-btn">Add a new Item!</button>
+        </p>
+        </div>
+
+        <div id="item-collection"></div>
+    </main>
 
     <!-- FOOTER SECTION -->
     <nav class="navbar fixed-bottom navbar-expand-lg navbar-dark bg-dark">
